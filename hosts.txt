@@ -1,1 +1,2 @@
 0.0.0.0 iclickcdn.com
+0.0.0.0 wu.azureedge.net
