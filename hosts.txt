@@ -1,3 +1,4 @@
 0.0.0.0 iclickcdn.com
 0.0.0.0 wu.azureedge.net
 0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 log-collector.shopee.co.id
