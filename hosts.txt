@@ -3,3 +3,8 @@
 0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 log-collector.shopee.co.id
 0.0.0.0 log.tiktokv.com.edgesuite.net
+0.0.0.0 mirror1.internetdownloadmanager.com
+0.0.0.0 mirror2.internetdownloadmanager.com
+0.0.0.0 mirror3.internetdownloadmanager.com
+0.0.0.0 mirror4.internetdownloadmanager.com
+0.0.0.0 mirror5.internetdownloadmanager.com
