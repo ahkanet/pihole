@@ -8,3 +8,5 @@
 0.0.0.0 mirror3.internetdownloadmanager.com
 0.0.0.0 mirror4.internetdownloadmanager.com
 0.0.0.0 mirror5.internetdownloadmanager.com
+0.0.0.0 sinkboxphantic.com
+0.0.0.0 tensagesic.com
