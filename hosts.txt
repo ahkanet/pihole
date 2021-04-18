@@ -11,4 +11,11 @@
 0.0.0.0 sinkboxphantic.com
 0.0.0.0 tensagesic.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 adx-id.ads.heytapmobile.com
+0.0.0.0 cl-data-id.ads.heytapmobile.com
+0.0.0.0 adsfs-id.heytapimg.com
+0.0.0.0 aws-ulog.kibads.com
+0.0.0.0 aws-api.kibads.com
+0.0.0.0 tx-apiv2.kibads.com
+0.0.0.0 papayads.net
 0.0.0.0 download.windowsupdate.com
