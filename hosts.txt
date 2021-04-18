@@ -10,3 +10,5 @@
 0.0.0.0 mirror5.internetdownloadmanager.com
 0.0.0.0 sinkboxphantic.com
 0.0.0.0 tensagesic.com
+0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 download.windowsupdate.com
