@@ -19,3 +19,5 @@
 0.0.0.0 tx-apiv2.kibads.com
 0.0.0.0 papayads.net
 0.0.0.0 download.windowsupdate.com
+0.0.0.0 s.tf4srv.com
+0.0.0.0 s.orbsrv.com
