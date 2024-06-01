@@ -21,3 +21,4 @@
 0.0.0.0 download.windowsupdate.com
 0.0.0.0 s.tf4srv.com
 0.0.0.0 s.orbsrv.com
+0.0.0.0 ads.baca.co.id
