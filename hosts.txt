@@ -25,3 +25,6 @@
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 ht-cdn.trafficjunky.net
 0.0.0.0 evtubescms.phncdn.com.lds.rncdn7.com
+0.0.0.0 zx.yocksniacins.com
+0.0.0.0 histssenaah.top
+0.0.0.0 nixinggrugru.top
